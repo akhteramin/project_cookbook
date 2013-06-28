@@ -1,0 +1,7 @@
+Change of database:
+Order book:
+(delete->recipe_id
+add->order_id,
+sequence->order_id
+)
+new table image have to be added.
